@@ -1,4 +1,4 @@
-<h1>Oi! Eu sou a Bruna Laís 👋<h1>
+<h3>Oi! Eu sou a Bruna Laís 👋<h3>
  <ul>
 <li>🌱 No momento, estou aprendendo tudo de frond-end.</li>
    <li>😄 Pronomes: ela/dela</li>
@@ -17,7 +17,7 @@
     <img align="center" alt="Bru-Js" height="30" width="40"         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Bru-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Bru-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="right" alt="Bru-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="right" alt="" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" height="200">
 </div>
     
   
