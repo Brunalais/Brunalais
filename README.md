@@ -3,9 +3,9 @@
  ##
  
  <ul>
-<li>🌱 No momento, estou aprendendo tudo de frond-end.</li>
+<li>🌱 No momento, estou aprendendo tudo de frond-end e iniciei Python.</li>
    <li>😄 Pronomes: ela/dela</li>
-   <li>⚡ Curiosidade: sou fã de Harry Potter e sou apaixonda por animais. 😍</li>
+   <li>⚡ Curiosidade: sou fã de Harry Potter e apaixonda por animais. 😍</li>
   </ul>
  
  ##
