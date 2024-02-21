@@ -36,7 +36,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunalais&layout=compact&langs_count=7&theme=highcontrast&title_color=EE82EE"/>
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Brunalais&bg_color=000000&color=e5a5e9&line=ff00ee&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
  
